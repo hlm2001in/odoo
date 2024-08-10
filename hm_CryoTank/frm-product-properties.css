@@ -1,0 +1,116 @@
+.img-product-drawing-icon,
+.img-product-icon {
+  position: absolute;
+  top: 8px;
+  left: 7px;
+  width: 202px;
+  height: 411px;
+  object-fit: cover;
+}
+.img-product-drawing-icon {
+  left: 221px;
+  width: 265px;
+}
+.lblproducthermo,
+.txtprodcutthermo {
+  position: absolute;
+  top: 5px;
+  left: 183px;
+  letter-spacing: 0.1px;
+  line-height: 20px;
+  font-weight: 500;
+  display: inline-block;
+  width: 262px;
+  height: 22px;
+}
+.lblproducthermo {
+  top: 0;
+  left: 0;
+  width: 174px;
+  height: 27px;
+}
+.product-coldstretch,
+.product-insulation,
+.productthermo {
+  position: absolute;
+  top: 278px;
+  left: 12px;
+  width: 445px;
+  height: 27px;
+}
+.product-coldstretch,
+.product-insulation {
+  top: 251px;
+}
+.product-coldstretch {
+  top: 224px;
+}
+.product-capacity1,
+.product-code-std,
+.product-pressure,
+.product-rev {
+  position: absolute;
+  top: 197px;
+  left: 12px;
+  width: 445px;
+  height: 27px;
+}
+.product-capacity1,
+.product-pressure,
+.product-rev {
+  top: 170px;
+}
+.product-capacity1,
+.product-rev {
+  top: 143px;
+}
+.product-capacity1 {
+  top: 116px;
+}
+.product-group,
+.product-name,
+.product-type,
+.product-type1 {
+  position: absolute;
+  top: 89px;
+  left: 12px;
+  width: 445px;
+  height: 27px;
+}
+.product-group,
+.product-name,
+.product-type1 {
+  top: 62px;
+}
+.product-group,
+.product-type1 {
+  top: 35px;
+}
+.product-type1 {
+  top: 8px;
+}
+.frm-product-char,
+.frmproductinfo {
+  position: absolute;
+  top: 8px;
+  left: 5px;
+  width: 469px;
+  height: 305px;
+  overflow: hidden;
+}
+.frm-product-char {
+  top: 431px;
+  left: 7px;
+  width: 479px;
+}
+.frm-product-properties {
+  width: 100%;
+  position: relative;
+  background-color: var(--schemes-surface-container-lowest);
+  height: 751px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--m3-title-small-size);
+  color: var(--color-black);
+  font-family: var(--m3-body-small);
+}

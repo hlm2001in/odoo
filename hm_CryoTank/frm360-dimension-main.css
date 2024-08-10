@@ -1,0 +1,79 @@
+.img-dim-04-procurement-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 409px;
+  height: 83px;
+  object-fit: cover;
+}
+.frm-dim-04-image {
+  position: absolute;
+  top: -9px;
+  left: 0;
+  width: 404px;
+  height: 92px;
+  overflow: hidden;
+}
+.frm-dim-03-image-icon,
+.frm-dim-04-procurement {
+  position: absolute;
+  top: 268px;
+  left: 11px;
+  width: 398px;
+  height: 83px;
+  overflow: hidden;
+}
+.frm-dim-03-image-icon {
+  top: -9px;
+  left: 0;
+  width: 404px;
+  height: 82px;
+  object-fit: cover;
+}
+.frm-dim-02-image-icon,
+.frm-dim-03-production-cycle {
+  position: absolute;
+  top: 184px;
+  left: 11px;
+  width: 398px;
+  height: 84px;
+  overflow: hidden;
+}
+.frm-dim-02-image-icon {
+  top: 14px;
+  width: 391px;
+  height: 74px;
+  object-fit: cover;
+}
+.frm-dim-02-actual-material-iss {
+  position: absolute;
+  top: 99px;
+  left: 11px;
+  width: 412px;
+  height: 73px;
+  overflow: hidden;
+}
+.frm-dim-01-bom,
+.frm-dim-01-image-icon {
+  position: absolute;
+  width: 403px;
+  overflow: hidden;
+}
+.frm-dim-01-image-icon {
+  top: -9px;
+  left: 0;
+  height: 73px;
+  object-fit: cover;
+}
+.frm-dim-01-bom {
+  top: 17px;
+  left: 9px;
+  height: 70px;
+}
+.frm-360-dimension-main {
+  width: 100%;
+  position: relative;
+  background-color: var(--schemes-surface-container-lowest);
+  height: 751px;
+  overflow: hidden;
+}
